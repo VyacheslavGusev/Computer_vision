@@ -1,2 +1,3 @@
 # Computer_vision
- CV exploring
+ Research on neural networks for computer vision tasks\
+Notebook _CNN_Tensorflow_
